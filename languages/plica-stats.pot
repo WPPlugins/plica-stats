@@ -1,0 +1,163 @@
+# Translation of the WordPress plugin Plica Stats 1.0.15 by Plica Zaragozame S.L..
+# Copyright (C) 2010 Plica Zaragozame S.L.
+# This file is distributed under the same license as the Plica Stats package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Plica Stats 1.0.15\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/plica-stats\n"
+"POT-Creation-Date: 2010-05-01 20:59+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: plica-stats.php:147
+msgid "Home"
+msgstr ""
+
+#: plica-stats.php:152
+msgid "Tag"
+msgstr ""
+
+#: plica-stats.php:155 plica-stats.php:479 plica-stats.php:497
+#: plica-stats.php:510 plica-stats.php:523 plica-stats.php:549
+#: plica-stats.php:558
+msgid "Page"
+msgstr ""
+
+#: plica-stats.php:158
+msgid "Category"
+msgstr ""
+
+#: plica-stats.php:181
+msgid "Total"
+msgstr ""
+
+#: plica-stats.php:226
+msgid "Days"
+msgstr ""
+
+#: plica-stats.php:227
+msgid "Weeks"
+msgstr ""
+
+#: plica-stats.php:228
+msgid "Months"
+msgstr ""
+
+#: plica-stats.php:250
+msgid "Referers"
+msgstr ""
+
+#: plica-stats.php:253 plica-stats.php:288 plica-stats.php:543
+msgid "See full report"
+msgstr ""
+
+#: plica-stats.php:258 plica-stats.php:293 plica-stats.php:548
+msgid "Today"
+msgstr ""
+
+#: plica-stats.php:259 plica-stats.php:268
+msgid "Web"
+msgstr ""
+
+#: plica-stats.php:260 plica-stats.php:269 plica-stats.php:295
+#: plica-stats.php:304 plica-stats.php:334 plica-stats.php:352
+#: plica-stats.php:365 plica-stats.php:378 plica-stats.php:406
+#: plica-stats.php:424 plica-stats.php:437 plica-stats.php:450
+#: plica-stats.php:480 plica-stats.php:498 plica-stats.php:511
+#: plica-stats.php:524 plica-stats.php:550 plica-stats.php:559
+msgid "Views"
+msgstr ""
+
+#: plica-stats.php:267 plica-stats.php:302 plica-stats.php:557
+msgid "Yesterday"
+msgstr ""
+
+#: plica-stats.php:285
+msgid "Search engine terms"
+msgstr ""
+
+#: plica-stats.php:294 plica-stats.php:303 plica-stats.php:333
+#: plica-stats.php:351 plica-stats.php:364 plica-stats.php:377
+msgid "Search"
+msgstr ""
+
+#: plica-stats.php:317
+msgid "Plica Stats - Top search engine terms"
+msgstr ""
+
+#: plica-stats.php:318 plica-stats.php:390 plica-stats.php:463
+msgid "Updated every 12 hours"
+msgstr ""
+
+#: plica-stats.php:320 plica-stats.php:326 plica-stats.php:392
+#: plica-stats.php:398 plica-stats.php:465 plica-stats.php:472
+msgid "Last 7 days"
+msgstr ""
+
+#: plica-stats.php:321 plica-stats.php:350 plica-stats.php:393
+#: plica-stats.php:422 plica-stats.php:466 plica-stats.php:496
+msgid "Last 30 days"
+msgstr ""
+
+#: plica-stats.php:322 plica-stats.php:363 plica-stats.php:394
+#: plica-stats.php:435 plica-stats.php:467 plica-stats.php:509
+msgid "Last 365 days"
+msgstr ""
+
+#: plica-stats.php:323 plica-stats.php:376 plica-stats.php:395
+#: plica-stats.php:448 plica-stats.php:468 plica-stats.php:522
+msgid "All time"
+msgstr ""
+
+#: plica-stats.php:345 plica-stats.php:417 plica-stats.php:491
+msgid "Summarize"
+msgstr ""
+
+#: plica-stats.php:389
+msgid "Plica Stats - Top referers"
+msgstr ""
+
+#: plica-stats.php:405 plica-stats.php:423 plica-stats.php:436
+#: plica-stats.php:449
+msgid "Referer"
+msgstr ""
+
+#: plica-stats.php:462
+msgid "Plica Stats - Top visits"
+msgstr ""
+
+#: plica-stats.php:540
+msgid "Top visits"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Plica Stats 1.0.15)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: plica-stats.php:630 plica-stats.php:675
+msgid "Plica Stats"
+msgstr ""
+
+#: plica-stats.php:631
+msgid "Updated every hour"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Plica Stats 1.0.15)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Plica Stats 1.0.15)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.plicazaragozame.es"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Stats for Plica Zaragozame"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Plica Zaragozame S.L."
+msgstr ""
